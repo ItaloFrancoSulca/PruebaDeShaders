@@ -110,10 +110,10 @@ MonoBehaviour:
     y: 30
     width: 1904
     height: 931
-  m_MinSize: {x: 917, y: 498}
-  m_MaxSize: {x: 22012, y: 14048}
+  m_MinSize: {x: 915, y: 498}
+  m_MaxSize: {x: 22010, y: 14048}
   vertical: 1
-  controlID: 55
+  controlID: 99
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1904
     height: 931
-  m_MinSize: {x: 917, y: 498}
-  m_MaxSize: {x: 22012, y: 14048}
+  m_MinSize: {x: 915, y: 498}
+  m_MaxSize: {x: 22010, y: 14048}
   vertical: 0
-  controlID: 56
+  controlID: 100
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -159,8 +159,8 @@ MonoBehaviour:
     y: 0
     width: 202
     height: 931
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_MinSize: {x: 438, y: 498}
   m_MaxSize: {x: 14008, y: 14048}
   vertical: 1
-  controlID: 57
+  controlID: 34
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,7 +245,7 @@ MonoBehaviour:
   m_MinSize: {x: 438, y: 274}
   m_MaxSize: {x: 14008, y: 10024}
   vertical: 0
-  controlID: 100
+  controlID: 55
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -444,9 +444,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2c300000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: acfbffffd6fbffff
+      m_ExpandedIDs: 8aeaffffa6eaffffa8eaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.6227341, y: 1.975256, z: 6.029873}
+    m_Target: {x: 2.1795688, y: -5.5418816, z: 3.6299438}
     speed: 2
-    m_Value: {x: -1.6227341, y: 1.975256, z: 6.029873}
+    m_Value: {x: 2.1795688, y: -5.5418816, z: 3.6299438}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -532,13 +532,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.06963058, y: 0.8850821, z: -0.14089228, w: -0.4381251}
+    m_Target: {x: -0.021037798, y: 0.97881925, z: -0.1392617, w: -0.14858148}
     speed: 2
-    m_Value: {x: -0.06962978, y: 0.885072, z: -0.14089067, w: -0.4381201}
+    m_Value: {x: -0.0210378, y: 0.9788193, z: -0.13926171, w: -0.14858149}
   m_Size:
-    m_Target: 23.575497
+    m_Target: 21.722874
     speed: 2
-    m_Value: 23.575497
+    m_Value: 21.722874
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -657,20 +657,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\Archivos\Toulouse Lautrec\Taller\Test\New Unity Project
+  m_LastProjectPath: C:\Users\Italo Franco\Desktop\Shader\PruebaDeShaders
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e2e0000
-    m_LastClickedID: 11934
-    m_ExpandedIDs: 00000000f02b00002e2c00000c2d00008e2d0000c82e00006a300000b4300000ee32000000ca9a3b
+    m_SelectedIDs: ce450000
+    m_LastClickedID: 17870
+    m_ExpandedIDs: 00000000ce4500008447000014480000664800003c4900003c4a00006a4a0000c84b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -698,7 +698,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f02b00002e2c00000c2d00008e2d0000c82e00006a300000b4300000ee320000
+    m_ExpandedIDs: 00000000ce4500008447000014480000664800003c4900003c4a00006a4a0000c84b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
